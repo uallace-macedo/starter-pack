@@ -12,7 +12,7 @@ Starter pack configurado com frontend e backend engatilhados, utilizando PrismaO
 - React-hook-form
 - React-hot-toast
 - Zustand
-- JWT-Decode
+- Tailwindcss
 
 ### Backend
 - NodeJS
